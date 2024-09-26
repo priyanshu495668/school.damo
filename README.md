@@ -1,2 +1,2 @@
-# school.damo
+# school.demo
 this is my first repository
